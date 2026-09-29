@@ -1,0 +1,4 @@
+interface:
+  display_name: "荷塘雨课堂实时课堂助手"
+  short_description: "持续检测指定荷塘课堂的新题，由 agent 简短作答并核验提交结果"
+  default_prompt: "使用 $hetang-classroom-agent 进入我指定的 Chrome 荷塘课堂，持续查看新习题或投票并直接作答提交，填空和简答尽量简短，下课即停止。"
